@@ -6,7 +6,7 @@ Nosso desafio é conectar ideias, algoritmos e resultados. Essa relação é mov
 ## 📬 Get in touch
 
 - Web: [agregaranalytics.github.io][1]
-- LinkedIn: [agregaranalytics@gmail.com][2]
+- Email: [agregaranalytics@gmail.com][2]
 
 ## &#x1f4c8; My GitHub Stats
 
